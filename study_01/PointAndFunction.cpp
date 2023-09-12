@@ -19,4 +19,6 @@ int main(){
      swap(&a,&b);
      cout << a << ", " << b << endl;
 
+     cin >> a;
+
 }
