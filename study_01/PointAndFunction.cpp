@@ -20,5 +20,6 @@ int main(){
      cout << a << ", " << b << endl;
 
      cin >> a;
+     cout << a << endl;
 
 }
